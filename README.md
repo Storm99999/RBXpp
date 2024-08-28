@@ -35,10 +35,10 @@ RBX++ is an unofficial roblox theming utility, which aims to give the user a sat
 
 
 # Requirements
-Switch your default theme to "Dark dimmed" in Settings -> Appearance
+Tampermonkey, https://chrome.google.com/webstore/search/tampermonkey
 
 # Installation
-* Install tampermonkey, https://chrome.google.com/webstore/search/tampermonkey
+* Install tampermonkey
 * Click on "Create new userscript"
 * Paste in the script from ./ext/rbxpp.js
 * Ctrl + S
