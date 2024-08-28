@@ -40,7 +40,7 @@ Tampermonkey, https://chrome.google.com/webstore/search/tampermonkey
 # Installation
 * Install tampermonkey
 * Click on "Create new userscript"
-* Paste in the script from ./ext/rbxpp.js
+* Paste any theme from ./themes/ into the editor
 * Ctrl + S
 * Profit, you can change themes depending on your liking!
 
