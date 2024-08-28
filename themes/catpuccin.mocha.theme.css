@@ -1,0 +1,41 @@
+#HomeContainer {
+    border-radius: 16px;
+    background: rgb(30, 30, 46);
+    padding: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+}
+
+.simplebar-content-wrapper {
+    background: rgb(30, 30, 46);
+    /* Background color for the sidebar */
+}
+
+#navigation {
+    margin-left: 10px;
+    border-radius: 16px;
+    height: 600px;
+    transform: translateY(5%);
+    background: rgb(30, 30, 46);
+}
+
+#container-main {
+    background: rgb(40, 40, 55);
+}
+
+#header {
+    background: rgb(40, 40, 55);
+    /* Background color for the header */
+}
+
+.content {
+    background: rgb(40, 40, 55);
+    /* Background color for the background */
+}
+
+.container-fluid {
+    background: rgb(30, 30, 46);
+    border-radius: 16px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 27px;
+}
