@@ -1,7 +1,8 @@
 <div align="center">
 
 <sup>rbx++</sup>
-![image](https://github.com/user-attachments/assets/de21a247-f694-4584-9845-27c744df8c53)
+![image](https://github.com/user-attachments/assets/19fb6395-65a2-46bd-984d-49103bf071c0)
+
 
 <a href="https://discord.gg/moneygang">
   <div>
