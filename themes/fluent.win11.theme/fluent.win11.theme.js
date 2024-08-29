@@ -2,7 +2,7 @@
 // @name         RBX++
 // @namespace    yikes
 // @version      1.0.0-alph
-// @description  catppuccin theme for roblox
+// @description  win11 theme for roblox
 // @author       newguy
 // @match        https://www.roblox.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=roblox.com
