@@ -25,40 +25,40 @@
     #HomeContainer {
         border-radius: 16px;
         background: rgb(30, 30, 46);
-        padding: 10px; /* Optional: Add padding to create space inside the container */
+        padding: 10px; 
         box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
     }
 
     .simplebar-content-wrapper {
-        background: rgb(30, 30, 46); /* Background color for the class */
+        background: rgb(30, 30, 46); 
     }
 
     #navigation {
-        margin-left: 10px; /* Margin from the left edge */
-        border-radius: 16px; /* Rounded corners */
-        height: 600px; /* Fixed height */
-        transform: translateY(5%); /* Move element down by 5% of its height */
-        background: rgb(30, 30, 46); /* Background color */
+        margin-left: 10px; 
+        border-radius: 16px; 
+        height: 600px;
+        transform: translateY(5%);
+        background: rgb(30, 30, 46);
     }
 
     #container-main {
-        background: rgb(40, 40, 55); /* Background color for the ID */
+        background: rgb(40, 40, 55); 
     }
 
     #header {
-        background: rgb(40, 40, 55); /* Background color for the ID */
+        background: rgb(40, 40, 55); 
     }
 
     .content {
-        background: rgb(40, 40, 55); /* Background color for the class */
+        background: rgb(40, 40, 55);
     }
 
     .container-fluid {
-        background: rgb(30, 30, 46); /* Background color */
-        border-radius: 16px; /* Rounded corners */
-        margin-top: 15px; /* Margin from the top */
-        margin-left: 10px; /* Margin from the left */
-        margin-right: 27px; /* Margin from the right */
+        background: rgb(30, 30, 46); 
+        border-radius: 16px; 
+        margin-top: 15px; 
+        margin-left: 10px; 
+        margin-right: 27px;
     }
 `);
 
