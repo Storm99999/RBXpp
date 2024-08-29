@@ -68,6 +68,11 @@
         elements[i].style.background = "rgb(40, 40, 55)";
     }
 
+    const funtime = document.getElementsByClassName('dropdown-menu new-dropdown-menu');
+    for (let i = 0; i < funtime.length; i++) {
+        funtime[i].style.background = "rgb(30,30,46)";
+    }
+
     const button = document.getElementById('skip-to-main-content');
 
     if (button) {
