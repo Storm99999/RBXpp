@@ -119,6 +119,7 @@
 
     window.onload = function () {
         const yea = setTimeout(function () {
+            /* uncomment this if you have good internet because ive tried lmao
             const element2 = document.querySelector('.game-sort-carousel-wrapper');
 
             if (element2) {
@@ -130,7 +131,7 @@
             if (button3) {
                 button3.remove();
             }
-
+*/
         }, 900)
     }
 
